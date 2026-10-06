@@ -131,7 +131,7 @@ export default function About() {
         {/* CV */}
         <div className="text-center">
           <a
-            href="/CV_Jordan_Tejada_2025.docx"
+            href="/CV_Jordan_Tejada_2026.docx"
             download
             className="inline-block rounded-lg bg-blue-600 px-6 py-3 font-semibold text-white transition hover:bg-blue-700"
           >
